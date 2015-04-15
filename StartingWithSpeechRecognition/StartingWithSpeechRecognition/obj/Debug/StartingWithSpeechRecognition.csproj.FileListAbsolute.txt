@@ -1,0 +1,11 @@
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\SpeechRecognition-Article\StartingWithSpeechRecognition\bin\Debug\StartingWithSpeechRecognition.exe
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\SpeechRecognition-Article\StartingWithSpeechRecognition\bin\Debug\StartingWithSpeechRecognition.pdb
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\SpeechRecognition-Article\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\SpeechRecognition-Article\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.exe
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\SpeechRecognition-Article\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.pdb
+C:\Users\ProBook\Documents\Downloads\Compressed\StartingWithSpeechRecognition\StartingWithSpeechRecognition\bin\Debug\StartingWithSpeechRecognition.exe.config
+C:\Users\ProBook\Documents\Downloads\Compressed\StartingWithSpeechRecognition\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.exe
+C:\Users\ProBook\Documents\Downloads\Compressed\StartingWithSpeechRecognition\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.pdb
+C:\Users\ProBook\Documents\Downloads\Compressed\StartingWithSpeechRecognition\StartingWithSpeechRecognition\bin\Debug\StartingWithSpeechRecognition.exe
+C:\Users\ProBook\Documents\Downloads\Compressed\StartingWithSpeechRecognition\StartingWithSpeechRecognition\bin\Debug\StartingWithSpeechRecognition.pdb
+C:\Users\ProBook\Documents\Downloads\Compressed\StartingWithSpeechRecognition\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.csprojResolveAssemblyReference.cache
