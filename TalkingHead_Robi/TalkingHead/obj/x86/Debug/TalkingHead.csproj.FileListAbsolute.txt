@@ -1,0 +1,8 @@
+C:\Users\ProBook\documents\visual studio 2010\Projects\TalkingHead\TalkingHead\bin\Debug\TalkingHead.exe
+C:\Users\ProBook\documents\visual studio 2010\Projects\TalkingHead\TalkingHead\bin\Debug\TalkingHead.pdb
+C:\Users\ProBook\documents\visual studio 2010\Projects\TalkingHead\TalkingHead\obj\x86\Debug\TalkingHead.Form1.resources
+C:\Users\ProBook\documents\visual studio 2010\Projects\TalkingHead\TalkingHead\obj\x86\Debug\TalkingHead.Properties.Resources.resources
+C:\Users\ProBook\documents\visual studio 2010\Projects\TalkingHead\TalkingHead\obj\x86\Debug\TalkingHead.csproj.GenerateResource.Cache
+C:\Users\ProBook\documents\visual studio 2010\Projects\TalkingHead\TalkingHead\obj\x86\Debug\TalkingHead.exe
+C:\Users\ProBook\documents\visual studio 2010\Projects\TalkingHead\TalkingHead\obj\x86\Debug\TalkingHead.pdb
+C:\Users\ProBook\documents\visual studio 2010\Projects\TalkingHead\TalkingHead\obj\x86\Debug\TalkingHead.csprojResolveAssemblyReference.cache
