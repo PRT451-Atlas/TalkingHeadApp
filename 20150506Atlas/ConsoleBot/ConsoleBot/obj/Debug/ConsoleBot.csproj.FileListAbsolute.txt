@@ -1,0 +1,43 @@
+D:\QQPCmgr\Desktop\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.exe
+D:\QQPCmgr\Desktop\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.pdb
+D:\QQPCmgr\Desktop\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe
+D:\QQPCmgr\Desktop\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.pdb
+D:\QQPCmgr\Desktop\ConsoleBot\ConsoleBot\bin\Debug\AIMLbot.pdb
+D:\QQPCmgr\Desktop\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csprojResolveAssemblyReference.cache
+C:\Users\Sancho\Desktop\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.exe
+C:\Users\Sancho\Desktop\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.pdb
+C:\Users\Sancho\Desktop\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe.config
+C:\Users\Sancho\Desktop\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe
+C:\Users\Sancho\Desktop\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.pdb
+C:\Users\Sancho\Desktop\ConsoleBot\ConsoleBot\bin\Debug\AIMLbot.pdb
+C:\Users\Sancho\Desktop\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csprojResolveAssemblyReference.cache
+C:\Users\al asmaul hosna\Desktop\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe.config
+C:\Users\al asmaul hosna\Desktop\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe
+C:\Users\al asmaul hosna\Desktop\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.pdb
+C:\Users\al asmaul hosna\Desktop\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csprojResolveAssemblyReference.cache
+C:\Users\al asmaul hosna\Desktop\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.exe
+C:\Users\al asmaul hosna\Desktop\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.pdb
+C:\Users\al asmaul hosna\Desktop\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form1.resources
+C:\Users\al asmaul hosna\Desktop\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csproj.GenerateResource.Cache
+U:\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe.config
+U:\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.exe
+U:\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.pdb
+U:\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe
+U:\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.pdb
+U:\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csprojResolveAssemblyReference.cache
+U:\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form1.resources
+U:\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csproj.GenerateResource.Cache
+U:\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form2.resources
+U:\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form3.resources
+U:\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form4.resources
+E:\Sancho\VS\MyTalkingHead\20150506 Atlas\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe.config
+E:\Sancho\VS\MyTalkingHead\20150506 Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.exe
+E:\Sancho\VS\MyTalkingHead\20150506 Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.pdb
+E:\Sancho\VS\MyTalkingHead\20150506 Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csprojResolveAssemblyReference.cache
+E:\Sancho\VS\MyTalkingHead\20150506 Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form1.resources
+E:\Sancho\VS\MyTalkingHead\20150506 Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form2.resources
+E:\Sancho\VS\MyTalkingHead\20150506 Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form3.resources
+E:\Sancho\VS\MyTalkingHead\20150506 Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form4.resources
+E:\Sancho\VS\MyTalkingHead\20150506 Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csproj.GenerateResource.Cache
+E:\Sancho\VS\MyTalkingHead\20150506 Atlas\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe
+E:\Sancho\VS\MyTalkingHead\20150506 Atlas\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.pdb
