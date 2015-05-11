@@ -41,3 +41,26 @@ E:\Sancho\VS\MyTalkingHead\20150506 Atlas\ConsoleBot\ConsoleBot\obj\Debug\Consol
 E:\Sancho\VS\MyTalkingHead\20150506 Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csproj.GenerateResource.Cache
 E:\Sancho\VS\MyTalkingHead\20150506 Atlas\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe
 E:\Sancho\VS\MyTalkingHead\20150506 Atlas\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.pdb
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150506Atlas\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe.config
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.exe
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.pdb
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150506Atlas\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150506Atlas\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.pdb
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csprojResolveAssemblyReference.cache
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form1.resources
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form2.resources
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form3.resources
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form4.resources
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csproj.GenerateResource.Cache
+E:\Sancho\VS\MyTalkingHead\20150506Atlas\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe.config
+E:\Sancho\VS\MyTalkingHead\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.exe
+E:\Sancho\VS\MyTalkingHead\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.pdb
+E:\Sancho\VS\MyTalkingHead\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csprojResolveAssemblyReference.cache
+E:\Sancho\VS\MyTalkingHead\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form1.resources
+E:\Sancho\VS\MyTalkingHead\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form2.resources
+E:\Sancho\VS\MyTalkingHead\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form3.resources
+E:\Sancho\VS\MyTalkingHead\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form4.resources
+E:\Sancho\VS\MyTalkingHead\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csproj.GenerateResource.Cache
+E:\Sancho\VS\MyTalkingHead\20150506Atlas\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe
+E:\Sancho\VS\MyTalkingHead\20150506Atlas\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.pdb
+E:\Sancho\VS\MyTalkingHead\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Properties.Resources.resources

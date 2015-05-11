@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Threading;
 using System.Windows.Forms;
 using AIMLbot;
 using System.Speech.Synthesis;
@@ -17,45 +18,76 @@ namespace ConsoleBot
         public Form1()
         {
             InitializeComponent();
+            do_first();
+            pictureBox1.Image = Image.FromFile(Application.StartupPath + "\\picture\\head.gif");
+            pictureBox1.SizeMode = PictureBoxSizeMode.CenterImage;
+        }
+
+        Bot myBot;
+        User myUser;
+        SpeechSynthesizer sSynth = new SpeechSynthesizer(); // speech synthesizer engine robi
+        String temp;
+
+        public void do_first()
+        {
+            Bot myBot = new Bot();
+            const string UserId = "Team Atlas";
+            myBot.loadSettings();
+            User myUser = new User(UserId, myBot);
+            myBot.isAcceptingUserInput = false;
+            myBot.loadAIMLFromFiles();
+            myBot.isAcceptingUserInput = true;
+            setBot(myBot);
+            setUser(myUser);
+        }
+
+        public void setBot(Bot x)
+        {
+            this.myBot = x;
+
+        }
+
+        public Bot getBot()
+        {
+            return this.myBot;
+        }
+
+        public void setUser(User y)
+        {
+            this.myUser = y;
+        }
+
+        public User getUser()
+        {
+            return this.myUser;
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
 
         }
-
-        Bot myBot = new Bot();
-
-        SpeechSynthesizer sSynth = new SpeechSynthesizer(); // speech synthesizer engine robi
-        const string UserId = "CityU.Scm.David";
-        String temp;
-        
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void button1_Click(object sender, EventArgs e)
         {
-            //textBox1.Text.
+            Thread clearText = new Thread(new ThreadStart(startTalking));
+            Thread botstartTalking = new Thread(new ThreadStart(clearTextbox1));
             textBox2.AppendText("User: " + textBox1.Text + "\n");
             temp = textBox1.Text;
-            textBox1.Text = null;
+            textBox1.Clear();
             process(temp.ToString());
-            
-
+            //botstartTalking.Start();
+            //clearText.Start();
+        }
+        public void startTalking()
+        {
+            process(textBox1.ToString());
+        }
+        public void clearTextbox1()
+        {
+            textBox1.Clear();
         }
 
         public String process(String input_string)
         {
-
-            myBot.loadSettings();
-
-            User myUser = new User(UserId, myBot);
-            myBot.isAcceptingUserInput = false;
-            myBot.loadAIMLFromFiles();
-            myBot.isAcceptingUserInput = true;
-
             //Console.Write("You: ");
             string input = input_string;
             if (input.ToLower() == "quit")
@@ -66,12 +98,12 @@ namespace ConsoleBot
             }
             else
             {
-                Request r = new Request(input, myUser, myBot);
+                Request r = new Request(input, this.getUser(), this.getBot());
                 Result res = myBot.Chat(r);
 
                 //Console.WriteLine("Bot: " + res.Output);
                 //robi starts
-                textBox2.AppendText("Atlas: "+ res.Output + "\n");
+                textBox2.AppendText("Atlas: " + res.Output + "\n");
                 sSynth.Speak(res.Output);
                 return res.Output;
                 //robi ends
@@ -86,11 +118,6 @@ namespace ConsoleBot
         //    }
         //}
 
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void exitToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Application.Exit();
@@ -100,7 +127,6 @@ namespace ConsoleBot
         {
             textBox1.Clear();
             textBox2.Clear();
-
         }
 
         private void aboutTheTeamToolStripMenuItem_Click(object sender, EventArgs e)
@@ -120,7 +146,5 @@ namespace ConsoleBot
             Form4 aboutATLAS = new Form4();
             aboutATLAS.Show();
         }
-
-       
     }
 }
