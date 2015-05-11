@@ -64,3 +64,9 @@ E:\Sancho\VS\MyTalkingHead\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\Console
 E:\Sancho\VS\MyTalkingHead\20150506Atlas\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe
 E:\Sancho\VS\MyTalkingHead\20150506Atlas\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.pdb
 E:\Sancho\VS\MyTalkingHead\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Properties.Resources.resources
+E:\Sancho\VS\MyTalkingHead\20150511\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe.config
+E:\Sancho\VS\MyTalkingHead\20150511\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.exe
+E:\Sancho\VS\MyTalkingHead\20150511\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.pdb
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150511\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe.config
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150511\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.exe
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150511\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.pdb
