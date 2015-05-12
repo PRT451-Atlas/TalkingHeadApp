@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+<category><pattern>WHO IS SANCHO SAIYIN</pattern><template>   <set name="it">SANCHO SAIYIN</set> is the creator of me.</template></category>  
+</aiml>
