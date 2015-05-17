@@ -104,3 +104,16 @@ C:\Users\s281122\Desktop\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Abo
 C:\Users\s281122\Desktop\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.AboutAIML.resources
 C:\Users\s281122\Desktop\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.AboutAtlas.resources
 C:\Users\s281122\Desktop\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Options.resources
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150513\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe.config
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.exe
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.pdb
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150513\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150513\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.pdb
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csprojResolveAssemblyReference.cache
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.TalkingHeadApp.resources
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.AboutTheTeam.resources
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.AboutAIML.resources
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.AboutAtlas.resources
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Options.resources
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Properties.Resources.resources
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csproj.GenerateResource.Cache
