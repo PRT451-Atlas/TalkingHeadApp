@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+<category><pattern>WHO IS SANCHO SAIYIN</pattern><template>   <set name="it">SANCHO SAIYIN</set> is the creator of me.</template></category>  
+<category><pattern>WHAT IS THE COLOR OF SKY</pattern><template>The color of sky is blue</template></category>
+<category><pattern>WHAT IS THE COLOR OF SEA</pattern><template>The color of sea is blue</template></category>
+<category><pattern>WHAT COLOR IS THE SEA</pattern><template>The color of sea is blue</template></category>
+<category><pattern>MARRY ME</pattern><template>No, I can not</template></category>
+<category><pattern>WHO IS SAMI</pattern><template>Sami is my friend</template></category>
+<category><pattern>WHO IS ROBI</pattern><template>Robi is my friend</template></category>
+<category><pattern>WHO IS SANCHO</pattern><template>Sancho is my friend</template></category>
+<category><pattern>WHO IS TAYLOR</pattern><template>Taylor is my friend</template></category>
+<category><pattern>WHO IS NICK</pattern><template>Nick is my friend</template></category>
+
+</aiml>
