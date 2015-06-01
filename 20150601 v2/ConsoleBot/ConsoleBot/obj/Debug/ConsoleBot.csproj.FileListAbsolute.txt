@@ -1,0 +1,210 @@
+D:\QQPCmgr\Desktop\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.exe
+D:\QQPCmgr\Desktop\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.pdb
+D:\QQPCmgr\Desktop\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe
+D:\QQPCmgr\Desktop\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.pdb
+D:\QQPCmgr\Desktop\ConsoleBot\ConsoleBot\bin\Debug\AIMLbot.pdb
+D:\QQPCmgr\Desktop\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csprojResolveAssemblyReference.cache
+C:\Users\Sancho\Desktop\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.exe
+C:\Users\Sancho\Desktop\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.pdb
+C:\Users\Sancho\Desktop\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe.config
+C:\Users\Sancho\Desktop\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe
+C:\Users\Sancho\Desktop\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.pdb
+C:\Users\Sancho\Desktop\ConsoleBot\ConsoleBot\bin\Debug\AIMLbot.pdb
+C:\Users\Sancho\Desktop\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csprojResolveAssemblyReference.cache
+C:\Users\al asmaul hosna\Desktop\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe.config
+C:\Users\al asmaul hosna\Desktop\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe
+C:\Users\al asmaul hosna\Desktop\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.pdb
+C:\Users\al asmaul hosna\Desktop\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csprojResolveAssemblyReference.cache
+C:\Users\al asmaul hosna\Desktop\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.exe
+C:\Users\al asmaul hosna\Desktop\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.pdb
+C:\Users\al asmaul hosna\Desktop\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form1.resources
+C:\Users\al asmaul hosna\Desktop\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csproj.GenerateResource.Cache
+U:\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe.config
+U:\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.exe
+U:\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.pdb
+U:\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe
+U:\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.pdb
+U:\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csprojResolveAssemblyReference.cache
+U:\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form1.resources
+U:\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csproj.GenerateResource.Cache
+U:\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form2.resources
+U:\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form3.resources
+U:\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form4.resources
+E:\Sancho\VS\MyTalkingHead\20150506 Atlas\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe.config
+E:\Sancho\VS\MyTalkingHead\20150506 Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.exe
+E:\Sancho\VS\MyTalkingHead\20150506 Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.pdb
+E:\Sancho\VS\MyTalkingHead\20150506 Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csprojResolveAssemblyReference.cache
+E:\Sancho\VS\MyTalkingHead\20150506 Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form1.resources
+E:\Sancho\VS\MyTalkingHead\20150506 Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form2.resources
+E:\Sancho\VS\MyTalkingHead\20150506 Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form3.resources
+E:\Sancho\VS\MyTalkingHead\20150506 Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form4.resources
+E:\Sancho\VS\MyTalkingHead\20150506 Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csproj.GenerateResource.Cache
+E:\Sancho\VS\MyTalkingHead\20150506 Atlas\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe
+E:\Sancho\VS\MyTalkingHead\20150506 Atlas\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.pdb
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150506Atlas\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe.config
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.exe
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.pdb
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150506Atlas\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150506Atlas\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.pdb
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csprojResolveAssemblyReference.cache
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form1.resources
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form2.resources
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form3.resources
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form4.resources
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csproj.GenerateResource.Cache
+E:\Sancho\VS\MyTalkingHead\20150506Atlas\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe.config
+E:\Sancho\VS\MyTalkingHead\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.exe
+E:\Sancho\VS\MyTalkingHead\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.pdb
+E:\Sancho\VS\MyTalkingHead\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csprojResolveAssemblyReference.cache
+E:\Sancho\VS\MyTalkingHead\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form1.resources
+E:\Sancho\VS\MyTalkingHead\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form2.resources
+E:\Sancho\VS\MyTalkingHead\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form3.resources
+E:\Sancho\VS\MyTalkingHead\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form4.resources
+E:\Sancho\VS\MyTalkingHead\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csproj.GenerateResource.Cache
+E:\Sancho\VS\MyTalkingHead\20150506Atlas\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe
+E:\Sancho\VS\MyTalkingHead\20150506Atlas\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.pdb
+E:\Sancho\VS\MyTalkingHead\20150506Atlas\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Properties.Resources.resources
+E:\Sancho\VS\MyTalkingHead\20150511\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe.config
+E:\Sancho\VS\MyTalkingHead\20150511\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.exe
+E:\Sancho\VS\MyTalkingHead\20150511\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.pdb
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150511\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe.config
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150511\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.exe
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150511\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.pdb
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150511\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150511\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.pdb
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150511\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csprojResolveAssemblyReference.cache
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150511\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form1.resources
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150511\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form2.resources
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150511\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form3.resources
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150511\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form4.resources
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150511\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Properties.Resources.resources
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150511\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csproj.GenerateResource.Cache
+C:\Users\s281122\Desktop\20150511\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe.config
+C:\Users\s281122\Desktop\20150511\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.exe
+C:\Users\s281122\Desktop\20150511\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.pdb
+C:\Users\s281122\Desktop\20150511\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe
+C:\Users\s281122\Desktop\20150511\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.pdb
+C:\Users\s281122\Desktop\20150511\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csprojResolveAssemblyReference.cache
+C:\Users\s281122\Desktop\20150511\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form1.resources
+C:\Users\s281122\Desktop\20150511\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form2.resources
+C:\Users\s281122\Desktop\20150511\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form3.resources
+C:\Users\s281122\Desktop\20150511\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Form4.resources
+C:\Users\s281122\Desktop\20150511\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Properties.Resources.resources
+C:\Users\s281122\Desktop\20150511\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csproj.GenerateResource.Cache
+C:\Users\s281122\Desktop\20150513\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe.config
+C:\Users\s281122\Desktop\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.exe
+C:\Users\s281122\Desktop\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.pdb
+C:\Users\s281122\Desktop\20150513\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe
+C:\Users\s281122\Desktop\20150513\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.pdb
+C:\Users\s281122\Desktop\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csprojResolveAssemblyReference.cache
+C:\Users\s281122\Desktop\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Properties.Resources.resources
+C:\Users\s281122\Desktop\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csproj.GenerateResource.Cache
+C:\Users\s281122\Desktop\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.TalkingHeadApp.resources
+C:\Users\s281122\Desktop\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.AboutTheTeam.resources
+C:\Users\s281122\Desktop\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.AboutAIML.resources
+C:\Users\s281122\Desktop\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.AboutAtlas.resources
+C:\Users\s281122\Desktop\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Options.resources
+C:\Users\Nick Dounias\Desktop\CDU Assignmnets\20150513\20150513\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe.config
+C:\Users\Nick Dounias\Desktop\CDU Assignmnets\20150513\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.exe
+C:\Users\Nick Dounias\Desktop\CDU Assignmnets\20150513\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.pdb
+C:\Users\Nick Dounias\Desktop\CDU Assignmnets\20150513\20150513\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe
+C:\Users\Nick Dounias\Desktop\CDU Assignmnets\20150513\20150513\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.pdb
+C:\Users\Nick Dounias\Desktop\CDU Assignmnets\20150513\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csprojResolveAssemblyReference.cache
+C:\Users\Nick Dounias\Desktop\CDU Assignmnets\20150513\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.TalkingHeadApp.resources
+C:\Users\Nick Dounias\Desktop\CDU Assignmnets\20150513\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.AboutTheTeam.resources
+C:\Users\Nick Dounias\Desktop\CDU Assignmnets\20150513\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.AboutAIML.resources
+C:\Users\Nick Dounias\Desktop\CDU Assignmnets\20150513\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.AboutAtlas.resources
+C:\Users\Nick Dounias\Desktop\CDU Assignmnets\20150513\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Options.resources
+C:\Users\Nick Dounias\Desktop\CDU Assignmnets\20150513\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Properties.Resources.resources
+C:\Users\Nick Dounias\Desktop\CDU Assignmnets\20150513\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csproj.GenerateResource.Cache
+C:\Users\Nick Dounias\Desktop\CDU Assignmnets\latest version\20150513\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe.config
+C:\Users\Nick Dounias\Desktop\CDU Assignmnets\latest version\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.exe
+C:\Users\Nick Dounias\Desktop\CDU Assignmnets\latest version\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.pdb
+C:\Users\Nick Dounias\Desktop\CDU Assignmnets\latest version\20150513\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe
+C:\Users\Nick Dounias\Desktop\CDU Assignmnets\latest version\20150513\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.pdb
+C:\Users\Nick Dounias\Desktop\CDU Assignmnets\latest version\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csprojResolveAssemblyReference.cache
+C:\Users\Nick Dounias\Desktop\CDU Assignmnets\latest version\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.TalkingHeadApp.resources
+C:\Users\Nick Dounias\Desktop\CDU Assignmnets\latest version\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.AboutTheTeam.resources
+C:\Users\Nick Dounias\Desktop\CDU Assignmnets\latest version\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.AboutAIML.resources
+C:\Users\Nick Dounias\Desktop\CDU Assignmnets\latest version\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.AboutAtlas.resources
+C:\Users\Nick Dounias\Desktop\CDU Assignmnets\latest version\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Options.resources
+C:\Users\Nick Dounias\Desktop\CDU Assignmnets\latest version\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Properties.Resources.resources
+C:\Users\Nick Dounias\Desktop\CDU Assignmnets\latest version\20150513\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csproj.GenerateResource.Cache
+D:\QQPCmgr\Desktop\20150517\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe.config
+D:\QQPCmgr\Desktop\20150517\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.exe
+D:\QQPCmgr\Desktop\20150517\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.pdb
+D:\QQPCmgr\Desktop\20150517\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe
+D:\QQPCmgr\Desktop\20150517\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.pdb
+D:\QQPCmgr\Desktop\20150517\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csprojResolveAssemblyReference.cache
+D:\QQPCmgr\Desktop\20150517\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.TalkingHeadApp.resources
+D:\QQPCmgr\Desktop\20150517\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.AboutTheTeam.resources
+D:\QQPCmgr\Desktop\20150517\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.AboutAIML.resources
+D:\QQPCmgr\Desktop\20150517\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.AboutAtlas.resources
+D:\QQPCmgr\Desktop\20150517\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Options.resources
+D:\QQPCmgr\Desktop\20150517\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Properties.Resources.resources
+D:\QQPCmgr\Desktop\20150517\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csproj.GenerateResource.Cache
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150517\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe.config
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150517\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.exe
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150517\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.pdb
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150517\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150517\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.pdb
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150517\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csprojResolveAssemblyReference.cache
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150517\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.TalkingHeadApp.resources
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150517\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.AboutTheTeam.resources
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150517\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.AboutAIML.resources
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150517\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.AboutAtlas.resources
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150517\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Options.resources
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150517\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Properties.Resources.resources
+C:\Users\Sancho\Documents\GitHub\TalkingHeadApp\20150517\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csproj.GenerateResource.Cache
+C:\Users\Nick Dounias\Desktop\20150518\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe.config
+C:\Users\Nick Dounias\Desktop\20150518\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.exe
+C:\Users\Nick Dounias\Desktop\20150518\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.pdb
+C:\Users\Nick Dounias\Desktop\20150518\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe
+C:\Users\Nick Dounias\Desktop\20150518\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.pdb
+C:\Users\Nick Dounias\Desktop\20150518\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csprojResolveAssemblyReference.cache
+C:\Users\Nick Dounias\Desktop\20150518\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.TalkingHeadApp.resources
+C:\Users\Nick Dounias\Desktop\20150518\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.AboutTheTeam.resources
+C:\Users\Nick Dounias\Desktop\20150518\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.AboutAIML.resources
+C:\Users\Nick Dounias\Desktop\20150518\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.AboutAtlas.resources
+C:\Users\Nick Dounias\Desktop\20150518\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Options.resources
+C:\Users\Nick Dounias\Desktop\20150518\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Properties.Resources.resources
+C:\Users\Nick Dounias\Desktop\20150518\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csproj.GenerateResource.Cache
+D:\QQPCmgr\Desktop\Nick's Latest updates\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe.config
+D:\QQPCmgr\Desktop\Nick's Latest updates\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.exe
+D:\QQPCmgr\Desktop\Nick's Latest updates\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.pdb
+D:\QQPCmgr\Desktop\Nick's Latest updates\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe
+D:\QQPCmgr\Desktop\Nick's Latest updates\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.pdb
+D:\QQPCmgr\Desktop\Nick's Latest updates\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csprojResolveAssemblyReference.cache
+D:\QQPCmgr\Desktop\Nick's Latest updates\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.TalkingHeadApp.resources
+D:\QQPCmgr\Desktop\Nick's Latest updates\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.AboutTheTeam.resources
+D:\QQPCmgr\Desktop\Nick's Latest updates\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.AboutAIML.resources
+D:\QQPCmgr\Desktop\Nick's Latest updates\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.AboutAtlas.resources
+D:\QQPCmgr\Desktop\Nick's Latest updates\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Options.resources
+D:\QQPCmgr\Desktop\Nick's Latest updates\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Properties.Resources.resources
+D:\QQPCmgr\Desktop\Nick's Latest updates\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csproj.GenerateResource.Cache
+D:\QQPCmgr\Desktop\20150601 v1\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe.config
+D:\QQPCmgr\Desktop\20150601 v1\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.exe
+D:\QQPCmgr\Desktop\20150601 v1\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.pdb
+D:\QQPCmgr\Desktop\20150601 v1\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe
+D:\QQPCmgr\Desktop\20150601 v1\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.pdb
+D:\QQPCmgr\Desktop\20150601 v1\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csprojResolveAssemblyReference.cache
+D:\QQPCmgr\Desktop\20150601 v1\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.TalkingHeadApp.resources
+D:\QQPCmgr\Desktop\20150601 v1\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.AboutTheTeam.resources
+D:\QQPCmgr\Desktop\20150601 v1\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.AboutAIML.resources
+D:\QQPCmgr\Desktop\20150601 v1\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.AboutAtlas.resources
+D:\QQPCmgr\Desktop\20150601 v1\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Options.resources
+D:\QQPCmgr\Desktop\20150601 v1\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Properties.Resources.resources
+D:\QQPCmgr\Desktop\20150601 v1\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csproj.GenerateResource.Cache
+D:\QQPCmgr\Desktop\20150601 v2\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe.config
+D:\QQPCmgr\Desktop\20150601 v2\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.exe
+D:\QQPCmgr\Desktop\20150601 v2\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.pdb
+D:\QQPCmgr\Desktop\20150601 v2\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.exe
+D:\QQPCmgr\Desktop\20150601 v2\ConsoleBot\ConsoleBot\bin\Debug\ConsoleBot.pdb
+D:\QQPCmgr\Desktop\20150601 v2\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csprojResolveAssemblyReference.cache
+D:\QQPCmgr\Desktop\20150601 v2\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.TalkingHeadApp.resources
+D:\QQPCmgr\Desktop\20150601 v2\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.AboutTheTeam.resources
+D:\QQPCmgr\Desktop\20150601 v2\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.AboutAIML.resources
+D:\QQPCmgr\Desktop\20150601 v2\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.AboutAtlas.resources
+D:\QQPCmgr\Desktop\20150601 v2\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Options.resources
+D:\QQPCmgr\Desktop\20150601 v2\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.Properties.Resources.resources
+D:\QQPCmgr\Desktop\20150601 v2\ConsoleBot\ConsoleBot\obj\Debug\ConsoleBot.csproj.GenerateResource.Cache
